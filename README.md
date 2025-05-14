@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hi there 👋 Omar here
+
+- 🇹🇳 I'm a software engineer from Tunisia.
+
+💻 I care about:
+- Clean architecture  
+- Linux and FOSS  
+- Transformer neural networks  
+- AI (the real stuff, not the hype)
+- Digital painting ![image](https://github.com/user-attachments/assets/a4c6e75a-c899-4b74-9f05-f03b49b669f2)
 
 <!--
 **3omarQ/3omarQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
