@@ -1,6 +1,6 @@
 ## Hi there 👋 Omar here
 
-- I'm a software engineer from Tunisia 🇹🇳.
+🇹🇳 I'm a software engineer from Tunisia.
 
 💻 I care about:
 - Clean architecture  
