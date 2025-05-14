@@ -1,6 +1,6 @@
 ## Hi there 👋 Omar here
 
-- 🇹🇳 I'm a software engineer from Tunisia.
+- I'm a software engineer from Tunisia 🇹🇳.
 
 💻 I care about:
 - Clean architecture  
@@ -9,10 +9,10 @@
 - AI (the real stuff, not the hype)
 - Digital painting
 
-<p float="left">
-  <img src="https://github.com/user-attachments/assets/a4c6e75a-c899-4b74-9f05-f03b49b669f2" alt="Yellow crested warbler" width="200"/>
-  <img src="https://github.com/user-attachments/assets/9f2c7da1-04c9-4ce2-b198-08b3ae13ec85" alt="Puppy" width="200"/>
-  <img src="https://github.com/user-attachments/assets/af5a6797-e08f-40a9-a875-3e39b8ccc53f" alt="Cat" width="200"/>
+<p align="right">
+  <img src="https://github.com/user-attachments/assets/a4c6e75a-c899-4b74-9f05-f03b49b669f2" alt="Yellow crested warbler" width="150"/>
+  <img src="https://github.com/user-attachments/assets/988def6e-2988-4168-9a1a-1eaf8eee5dd7" alt="Girl with pearl earring" width="150"/>
+  <img src="https://github.com/user-attachments/assets/7752ecb2-8b20-4c00-ac70-e00a3978c4c7" alt="Girl at landscape" width="150"/>
 </p>
 
 <!--
