@@ -7,7 +7,10 @@
 - Linux and FOSS  
 - Transformer neural networks  
 - AI (the real stuff, not the hype)
-- Digital painting ![image](https://github.com/user-attachments/assets/a4c6e75a-c899-4b74-9f05-f03b49b669f2)
+- Digital painting
+<p align="center">
+  <img src="(https://github.com/user-attachments/assets/a4c6e75a-c899-4b74-9f05-f03b49b669f2)" alt="Digital painting by Omar" width="300"/>
+</p>
 
 <!--
 **3omarQ/3omarQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
