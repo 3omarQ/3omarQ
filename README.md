@@ -9,7 +9,7 @@
 - AI (the real stuff, not the hype)
 - Digital painting
 <p align="center">
-  <img src="(https://github.com/user-attachments/assets/a4c6e75a-c899-4b74-9f05-f03b49b669f2)" alt="Digital painting by Omar" width="300"/>
+  <img src="https://github.com/user-attachments/assets/a4c6e75a-c899-4b74-9f05-f03b49b669f2" alt="Yellow crested warbler" width="300"/>
 </p>
 
 <!--
