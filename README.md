@@ -2,7 +2,7 @@
 
 I'm a software engineer from Tunisia 🐪🌴🏜️☀️🫒🌶️🌊.
 
- # I care about:
+ ##### I care about:
 - clean architecture 
 - linux and FOSS 
 - web dev (whatever that means nowadays)
