@@ -1,6 +1,6 @@
-## Hello there 👋 Omar here
+## Hello there , Omar here
 
-I'm a software engineer from Tunisia 🐪🌴🏜️☀️🫒🌶️🌊.
+I'm a software engineer from Tunisia 
 
  ##### I care about:
 - clean architecture 
@@ -8,6 +8,8 @@ I'm a software engineer from Tunisia 🐪🌴🏜️☀️🫒🌶️🌊.
 - web dev (whatever that means nowadays)
 - AI (the real stuff)
 - painting
+
+- i don't like emojis
 
 <p align="right">
   <img src="https://github.com/user-attachments/assets/a4c6e75a-c899-4b74-9f05-f03b49b669f2" alt="Yellow crested warbler" width="150"/>
